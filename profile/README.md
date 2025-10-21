@@ -32,10 +32,10 @@ We don't just give patients drills; we give them a world to play in.
 
 Our technology is designed to create a constant, dynamic conversation between a patient's brain and our software.
 
- The Mind as the Controller
+ The Mind as the Controller <br>
 Our EEG-based BCI headset is the core of the experience. It non-invasively reads the brain's electrical signals, allowing a patient's intent—their focus, their desire to move, their recognition of a target—to become the controller. For the first time, they are not just receiving therapy; they are driving their own recovery with their mind.
 
- An AI That Listens and Adapts
+ An AI That Listens and Adapts <br>
 Our platform is powered by a living, domain-specific AI engine that understands the unique language of the brain.
 
 Real-Time Neuro-Translation: Foundational ML/DL models process raw EEG signals in real-time, classifying cognitive states like motor imagery and attention (P300).
