@@ -18,7 +18,7 @@ I could not accept that. For my mother, and for the millions of other families i
 
 That is why NeuMe exists.
 
-Our Solution: A Dedicated Gym for the Brain
+## Our Solution: A Dedicated Gym for the Brain
 
 We are building what should have existed for my mother: a dedicated, intensive gym for the brain. NeuMe is a complete ecosystem that combines cutting-edge Brain-Computer Interface (BCI) technology with engaging, gamified software to create a powerful, closed-loop system that promotes neuroplasticity—the brain's incredible ability to heal and rewire itself.
 
@@ -28,7 +28,7 @@ We don't just give patients drills; we give them a world to play in.
 [Image: A vibrant screenshot of one of the therapeutic games]
 -->
 
-The Science of How We Heal
+## The Science of How We Heal
 
 Our technology is designed to create a constant, dynamic conversation between a patient's brain and our software.
 
@@ -44,7 +44,7 @@ Instant-On Calibration: We use Generative AI to create vast synthetic datasets, 
 
 Nova, Your Compassionate AI Guide: Central to the experience is Nova, our AI coach powered by a Large Language Model (LLM). Nova offers real-time, empathetic verbal guidance, celebrating victories and offering encouragement when it detects frustration, making therapy feel less like a task and more like a supported journey.
 
-Our Promise: An India-First Revolution in Cognitive Care
+## Our Promise: An India-First Revolution in Cognitive Care
 
 We are building a future-proof platform designed specifically for the needs and affordability of the Indian healthcare system.
 
@@ -56,7 +56,7 @@ We are building a future-proof platform designed specifically for the needs and 
 
  Future-Proof Platform: We are building in Multimodal Fusion to integrate data from EEG, fNIRS, eye tracking, and more, creating the most comprehensive cognitive profile available.
 
-Join Our Fight
+## Join Our Fight
 
 We are on a mission to make cutting-edge cognitive rehabilitation accessible to every Indian family who is hoping for a miracle.
 
