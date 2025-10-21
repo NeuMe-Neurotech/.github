@@ -60,7 +60,7 @@ We are building a future-proof platform designed specifically for the needs and 
 
 We are on a mission to make cutting-edge cognitive rehabilitation accessible to every Indian family who is hoping for a miracle.
 
-For Partnerships & Investors & Collaborations : Let's schedule a deeper technical dive. Contact us at ceo@neumeneurotech.com
+For Partnerships & Investors & Collaborations : Let's schedule a deeper technical dive. Contact us at ceo@neumeneurotech.com <br>
 For general inquiries : Contact us at contact@neumeneurotech.com
 
 Let’s bring back the memories. Let’s bring back them.
