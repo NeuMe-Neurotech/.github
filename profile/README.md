@@ -2,9 +2,9 @@
 
 -->
 
-NeuMe Neurotech
+# NeuMe Neurotech
 
-Where Hope Meets Neuroscience.
+## Where Hope Meets Neuroscience.
 
 It Started with a Heartbreak.
 
@@ -32,10 +32,10 @@ The Science of How We Heal
 
 Our technology is designed to create a constant, dynamic conversation between a patient's brain and our software.
 
-🧠 The Mind as the Controller
+ The Mind as the Controller
 Our EEG-based BCI headset is the core of the experience. It non-invasively reads the brain's electrical signals, allowing a patient's intent—their focus, their desire to move, their recognition of a target—to become the controller. For the first time, they are not just receiving therapy; they are driving their own recovery with their mind.
 
-🤖 An AI That Listens and Adapts
+ An AI That Listens and Adapts
 Our platform is powered by a living, domain-specific AI engine that understands the unique language of the brain.
 
 Real-Time Neuro-Translation: Foundational ML/DL models process raw EEG signals in real-time, classifying cognitive states like motor imagery and attention (P300).
@@ -48,22 +48,18 @@ Our Promise: An India-First Revolution in Cognitive Care
 
 We are building a future-proof platform designed specifically for the needs and affordability of the Indian healthcare system.
 
-✅ Prototype Developed: We have successfully developed and validated our first working prototype.
+ Prototype Developed: We have successfully developed and validated our first working prototype.
 
-⏳ Pilot Studies (3 Months): We are initiating trials with our partner hospitals to rigorously validate efficacy and gather crucial, real-world patient data.
+ Pilot Studies (3 Months): We are initiating trials with our partner hospitals to rigorously validate efficacy and gather crucial, real-world patient data.
 
-🇮🇳 India-First Design: Our solution is built with multi-language support and affordable deployment across both hospital and home settings.
+ India-First Design: Our solution is built with multi-language support and affordable deployment across both hospital and home settings.
 
-🔮 Future-Proof Platform: We are building in Multimodal Fusion to integrate data from EEG, fNIRS, eye tracking, and more, creating the most comprehensive cognitive profile available.
+ Future-Proof Platform: We are building in Multimodal Fusion to integrate data from EEG, fNIRS, eye tracking, and more, creating the most comprehensive cognitive profile available.
 
 Join Our Fight
 
 We are on a mission to make cutting-edge cognitive rehabilitation accessible to every Indian family who is hoping for a miracle.
 
-For Partnerships & Investors: Let's schedule a deeper technical dive. Contact us at partnerships@neume.tech.
-
-For Clinicians & Hospitals: Interested in our pilot studies? Reach out to clinical@neume.tech.
-
-For Careers: Want to help us build the future of healing? See our open roles at careers@neume.tech.
+For Partnerships & Investors & Collaborations : Let's schedule a deeper technical dive. Contact us at contact@neumeneurotech.com
 
 Let’s bring back the memories. Let’s bring back them.
